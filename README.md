@@ -1,6 +1,6 @@
 # React & TailwindCSS Starter template
 
-This template was created following the [https://tailwindcss.com/docs/guides/create-react-app](Tailwind's official CRA startup tempalte)
+This template was created following the [https://tailwindcss.com/docs/guides/create-react-app](Tailwinds official CRA startup template)
 
 ## Available Scripts
 
