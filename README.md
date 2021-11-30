@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# React & TailwindCSS Starter template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This template was created following the [https://tailwindcss.com/docs/guides/create-react-app](Tailwind's official CRA startup tempalte)
 
 ## Available Scripts
 
-In the project directory, you can run:
+As a normal CRA template you can use the following commands:
 
 ### `npm start`
 
